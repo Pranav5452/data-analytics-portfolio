@@ -136,3 +136,7 @@ bike-sales-excel/
 - Dashboard layout principles: consistent chart style, clear titles, slicer placement for usability
 
 ---
+
+## Dashboard
+
+![Dashboard](Dashboard_Screenshot.png)
